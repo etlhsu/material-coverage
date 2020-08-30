@@ -7,15 +7,18 @@ The official Material Design UI library created by Google Design for Android Dev
 - Project website: [material.io/develop/android](https://material.io/develop/android)
 
 ## Scores
-#### Availability Score: 62%
+#### Availability Score: 73.07%
 
- _18 components avaliable, 11 components unavailable_
+ _19 components avaliable, 7 components unavailable_
+
+#### Completeness Score: 73.07%
+
+ _19 components mostly complete, 0 component partially complete, 7 components unavailable_
 
 ## Component Availability
 
 | Material Component | Status | Details |
 | :---               | :---:  |:--      |
-|[Backdrop](https://material.io/components/backdrop)|❌|
 |[Banners](https://material.io/components/banners)|❌|
 |[Bottom app bars](https://material.io/components/app-bars-bottom)|✅|[Documentation](https://material.io/develop/android/components/app-bars-bottom)|
 |[Bottom navigation](https://material.io/components/bottom-navigation)|✅|[Documentation](https://material.io/develop/android/components/bottom-navigation)
@@ -31,12 +34,10 @@ The official Material Design UI library created by Google Design for Android Dev
 |[Image lists](https://material.io/components/image-lists)|❌|
 |[Lists](https://material.io/components/lists)|❌|
 |[Menus](https://material.io/components/menus)|✅|[Documentation](https://material.io/develop/android/components/menu)
-|[Navigation drawer](https://material.io/components/navigation-drawer)|❌|
-|[Navigation rail](https://material.io/components/navigation-rail)|❌|
+|[Navigation drawer](https://material.io/components/navigation-drawer)|✅|[Documentation](https://material.io/develop/android/components/navigation-view)
 |[Pickers](https://material.io/components/pickers)|✅|[Documentation](https://material.io/develop/android/components/picker)
 |[Progress indicators](https://material.io/components/progress-indicators)|❌|
 |[Radio buttons](https://material.io/components/selection-controls#radio-buttons)|✅|[Documentation](https://material.io/develop/android/components/radiobuttons)
-|[Side sheets](https://material.io/components/sheets-side)|❌|
 |[Sliders](https://material.io/components/sliders)|✅|[Documentation](https://material.io/develop/android/components/sliders)
 |[Snackbars](https://material.io/components/snackbars)|✅|[Documentation](https://material.io/develop/android/components/snackbars)
 |[Switches](https://material.io/components/selection-controls#switches)|✅|[Documentation](https://material.io/develop/android/components/switches)

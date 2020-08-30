@@ -8,17 +8,20 @@
 - Project website: [link](https://google.com)
 
 ## Scores
-#### Availability Score: 6.9%
+#### Availability Score: 6.69%
 
-_2 components avaliable, 27 components unavilable_
+_2 components avaliable, 24 components unavilable_
+
+#### Completeness Score: 5.77%
+
+_1 components mostly complete, 1 component partially complete, 24 components unavailable_
 
 ## Component Availability
 
 | Material Component | Status | Details |
 | :---               | :---:  |:--      |
-|[Backdrop](https://material.io/components/backdrop)|🟡| Part of the component is unavailable or difficult to implement|
-|[Banners](https://material.io/components/banners)|✅| [Documentation](https://google.com)|
-|[Bottom app bars](https://material.io/components/app-bars-bottom)|❌|
+|[Banners](https://material.io/components/banners)|🟡| Part of the component is unavailable or difficult to implement|
+|[Bottom app bars](https://material.io/components/app-bars-bottom)|✅| [Documentation](https://google.com)|
 |[Bottom navigation](https://material.io/components/bottom-navigation)|❌|
 |[Bottom sheets](https://material.io/components/sheets-bottom)|❌|
 |[Buttons](https://material.io/components/buttons)|❌|
@@ -33,11 +36,9 @@ _2 components avaliable, 27 components unavilable_
 |[Lists](https://material.io/components/lists)|❌|
 |[Menus](https://material.io/components/menus)|❌|
 |[Navigation drawer](https://material.io/components/navigation-drawer)|❌|
-|[Navigation rail](https://material.io/components/navigation-rail)|❌|
 |[Pickers](https://material.io/components/pickers)|❌|
 |[Progress indicators](https://material.io/components/progress-indicators)|❌|
 |[Radio buttons](https://material.io/components/selection-controls#radio-buttons)|❌|
-|[Side sheets](https://material.io/components/sheets-side)|❌|
 |[Sliders](https://material.io/components/sliders)|❌|
 |[Snackbars](https://material.io/components/snackbars)|❌|
 |[Switches](https://material.io/components/selection-controls#switches)|❌|

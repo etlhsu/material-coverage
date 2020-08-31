@@ -10,9 +10,17 @@ Here are some of our most popular reviews of design libraries
 
 ### iOS
 
+* (Official) Material Components iOS
+* SwiftUI
+
 ### Web
 
+* (Official) Material Components Web
+* Material-UI
+* Bootstrap
+
 ### Flutter
+* Material Components Flutter
 
 ## Resources
 Curious about the Material Coverage project? Here are some quick links to learn

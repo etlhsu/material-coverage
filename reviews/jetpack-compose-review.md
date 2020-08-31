@@ -20,7 +20,7 @@ _18 components mostly complete, 1 component partially complete, 7 components una
 ### Core Implementation
 Jetpack Compose defines structures for many different types of components. If a
 component is able to be made easily without a specific Material component, it is
-counted as 🟡partial.
+counted as 🟡 partial.
 
 ## Component Availability
 

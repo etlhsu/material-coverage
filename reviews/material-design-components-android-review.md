@@ -19,7 +19,7 @@ The official Material Design UI library created by Google Design for Android Dev
 
 ### System Component
 MDC Android is meant to be used in conjunction with Android's existing support design
-components (living through androidx.core). If a thorough component is only available thorugh the support design library it is counted it as 🟡partial. If it is incomplete it is counted as ❌nonexistant.
+components (living through androidx.core). If a thorough component is only available thorugh the support design library it is counted it as 🟡 partial. If it is incomplete it is counted as ❌ nonexistant.
 
 ## Component Availability
 

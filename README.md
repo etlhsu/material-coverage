@@ -1,5 +1,7 @@
 # Material Coverage
-Understand how Material Design is implemented across a wide variety of platforms.
+Understanding how design systems are implemented across different platforms can
+now be fun! Material Coverage converts the quality of design libraries into
+numbers and puts their abilities to the test.
 
 ## Popular reviews
 Here are some of our most popular reviews of design libraries
@@ -20,10 +22,11 @@ Here are some of our most popular reviews of design libraries
 * Bootstrap
 
 ### Flutter
-* Material Components Flutter
+* (Official) Material Components Flutter
 
 ## Resources
 Curious about the Material Coverage project? Here are some quick links to learn
 more about the effort:
 
 * [Scoring Guide](scoring-guide.md)
+* [Contributing](CONTRIBUTING.md)

@@ -1,6 +1,7 @@
 > Here is a template used to create new reviews!
 
 # Title of Material Design Implementation
+Describe the implementation here!
 
 ## Details
 

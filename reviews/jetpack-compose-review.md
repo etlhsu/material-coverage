@@ -1,4 +1,5 @@
 # Jetpack Compose
+The latest Kotlin-based UI toolkit from the Android toolkit team.
 
 ## Details
 

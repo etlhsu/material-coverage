@@ -15,7 +15,7 @@ _2 components avaliable, 24 components unavilable_
 
 #### Completeness Score: 5.77%
 
-_1 components mostly complete, 1 component partially complete, 24 components unavailable_
+_1 component mostly complete, 1 component partially complete, 24 components unavailable_
 
 ## Component Availability
 

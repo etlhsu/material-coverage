@@ -13,7 +13,7 @@ The official Material Design UI library created by Google Design for Android Dev
 
 #### Completeness Score: 73.07%
 
- _19 components mostly complete, 0 component partially complete, 7 components unavailable_
+ _19 components mostly complete, 0 components partially complete, 7 components unavailable_
 
 ## Component Availability
 

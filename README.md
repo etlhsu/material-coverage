@@ -2,7 +2,7 @@
 Understand how Material Design is implemented across a wide variety of platforms.
 
 ## Popular reviews
-Here are some of our most popular reviews of Material Design libraries
+Here are some of our most popular reviews of design libraries
 
 ### Android
 * (Official) [Material Components Android](reviews/material-design-components-android-review.md)
@@ -13,3 +13,9 @@ Here are some of our most popular reviews of Material Design libraries
 ### Web
 
 ### Flutter
+
+## Resources
+Curious about the Material Coverage project? Here are some quick links to learn
+more about the effort:
+
+* [Scoring Guide](scoring-guide.md)

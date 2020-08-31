@@ -17,6 +17,12 @@ _2 components avaliable, 24 components unavilable_
 
 _1 component mostly complete, 1 component partially complete, 24 components unavailable_
 
+## Grading Details
+
+### Some Short Phrase Used in the "Details" Section
+Since a lot of components did not achieve x, we counted them as ❌nonexistant.
+Do not put rationale for one or two components here!
+
 ## Component Availability
 
 | Material Component | Status | Details |

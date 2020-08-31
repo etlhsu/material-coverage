@@ -15,6 +15,13 @@ _19 components avaliable, 7 components unavailable_
 
 _18 components mostly complete, 1 component partially complete, 7 components unavailable_
 
+## Grading Details
+
+### Core Implementation
+Jetpack Compose defines structures for many different types of components. If a
+component is able to be made easily without a specific Material component, it is
+counted as 🟡partial.
+
 ## Component Availability
 
 | Material Component | Status | Details |
